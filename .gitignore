@@ -1,0 +1,31 @@
+# Terraform folders
+.terraform/
+
+# Terraform state files (VERY SENSITIVE)
+terraform.tfstate
+terraform.tfstate.*
+*.tfstate
+*.tfstate.backup
+
+# Terraform variables (may contain secrets)
+terraform.tfvars
+*.tfvars
+
+# Lock file (optional but usually ignored in beginners projects)
+.terraform.lock.hcl
+
+# Crash logs
+crash.log
+
+# Sensitive data files
+*.pem
+*.key
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
