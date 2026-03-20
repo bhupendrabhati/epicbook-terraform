@@ -115,11 +115,6 @@ terraform apply
 
 ---
 
-Connect on 
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="18" style="vertical-align: middle;"/>
-</a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhupendrabhati)
 
 ---
